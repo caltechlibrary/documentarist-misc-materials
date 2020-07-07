@@ -16,20 +16,13 @@ Table of contents
 Introduction
 ------------
 
+This repository is primarily for preserving original copies of _other_ repositories used in [Documentarist](https://github.com/caltechlibrary/documentarist).
 
 
 Installation
 ------------
 
-Begin this section by mentioning any prerequisites that may be important for users to have before they can use your software.  Examples include hardware and operating system requirements.
-
-Next, provide step-by-step instructions for installing the software, preferably with command examples that can be copy-pasted by readers into their software environments. For example:
-
-```bash
-a command-line command here
-```
-
-Sometimes, subsections may be needed for different operating systems or particularly complicated installations.
+You can clone the whole repository using [the usual git methods](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
  
 
 Getting help
