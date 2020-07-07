@@ -8,6 +8,7 @@ Table of contents
 -----------------
 
 * [Introduction](#introduction)
+* [Installation](#installation)
 * [Getting help](#getting-help)
 * [License](#license)
 * [Acknowledgments](#authors-and-acknowledgments)
